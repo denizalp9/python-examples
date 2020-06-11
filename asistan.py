@@ -1,3 +1,4 @@
+# Test
 import speech_recognition as sr # google speech-to-text(Sesi yazıya dönüştürme) modülü
 from gtts import  gTTS # google text-to-speech(Yazıyı sese dönüştürme) modülü
 import playsound # Pythonda ses oynatma modülü
