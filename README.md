@@ -1,3 +1,3 @@
 # Pythonda yazdığım şeyler.
 
-Sayı Sistemleri: İkili, Sekizli, Onlu ve Onaltılı sayı sistemleri arasında dönüşümleri yapabileceğiniz fonksiyonlar bulunur.
+Number systems and converting them into each other, leaving it here just for the functions
